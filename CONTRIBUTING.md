@@ -32,7 +32,7 @@ Also, star and watch the repository to receive all the updates directly to your 
 ## 2. Clone the forked repo to your system
 
 Clone the repository that you just forked into your account.
-Be careful to clone the forked repo (your-username/skill-board) and not the main repo (rahulsain3000/Hackerrank_30daysOFcode) as making direct changes to the main repo will result in conflict of code and lack of co-ordination as we proceed further.
+Be careful to clone the forked repo (your-username/Hackerrank_30daysOFcode) and not the main repo (rahulsain3000/Hackerrank_30daysOFcode) as making direct changes to the main repo will result in conflict of code and lack of co-ordination as we proceed further.
 
 The forked repository will have your username in the top left corner and the clone link will also contain your username (https://github.com/your-username/Hackerrank_30daysOFcode.git).
 
