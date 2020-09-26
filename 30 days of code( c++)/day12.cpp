@@ -4,7 +4,7 @@
 using namespace std;
 
 
-class Person{
+class person{
 	protected:
 		string firstName;
 		string lastName;
@@ -26,7 +26,7 @@ class Student :  public Person
     private:
         vector<int> testScores;
         int sum=0, subs=0;
-        double avg=0.0;
+        double avg=0;
     public:
        Student(string firstN, string lastN, int idS, vector<int> scores): Person(firstN,lastN,idS)
        {
@@ -37,9 +37,9 @@ class Student :  public Person
         {
            char g;
            for(unsigned int i=0; i<subs; ++i)
-            {
+            
                sum+=testScores[i];
-            }
+            
            avg=sum/subs;
            if     (avg>=90 && avg<=100)
                   g='O';

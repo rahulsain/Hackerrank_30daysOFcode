@@ -13,5 +13,5 @@ for(int i=1;i<11;i++)
    {
       result=n*i;
      printf("%d x %d = %d\n",n,i,result);
-   }  return 0;
+   }  return 10;
 }
