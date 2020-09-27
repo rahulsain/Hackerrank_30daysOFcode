@@ -3,7 +3,7 @@
 using namespace std;
 
 // Complete the solve function below.
-void solve(double meal_cost, int tip_percent, int tax_percent) {
+void Solve(double meal_cost, int tip_percent, int tax_percent) {
  float tip,tax;
  tax=(float)meal_cost*tax_percent/100;
  tip=(float)meal_cost*tip_percent/100;
@@ -12,7 +12,7 @@ void solve(double meal_cost, int tip_percent, int tax_percent) {
  printf("%d",totalCost);
 }
 
-int main()
+void main()
 {
     double meal_cost;
     cin >> meal_cost;
@@ -28,6 +28,6 @@ int main()
 
     solve(meal_cost, tip_percent, tax_percent);
 
-    return 0;
+    return null;
 }
 
