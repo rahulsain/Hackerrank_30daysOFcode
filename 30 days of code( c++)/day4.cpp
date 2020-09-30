@@ -1,7 +1,7 @@
 using namespace std;
 #include <iostream>
 
-private class Person{
+class Person{
     public:
         int age;
         Person(int initialAge);
@@ -16,13 +16,13 @@ age=0;
 else
 age=initialAge;    }
 
-    void Person:amIOld(){
+    void Person::amIOld(){
         // Do some computations in here and print out the correct statement to the console 
         if(age==0)
         printf("Age is not valid, setting age to 0.\n");
       if(age<13)
 printf("You are young.\n");
-else if(age<=13 && age<18)
+else if(age>=13 && age<18)
 printf("You are a teenager.\n");
 else
 printf("You are old.\n");
