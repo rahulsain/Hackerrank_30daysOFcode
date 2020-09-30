@@ -12,7 +12,7 @@ void Solve(double meal_cost, int tip_percent, int tax_percent) {
  printf("%d",totalCost);
 }
 
-void main()
+int main()
 {
     double meal_cost;
     cin >> meal_cost;
@@ -26,8 +26,7 @@ void main()
     cin >> tax_percent;
     cin.ignore(numeric_limits<streamsize>::max(), '\n');
 
-    solve(meal_cost, tip_percent, tax_percent);
+    Solve(meal_cost, tip_percent, tax_percent);
 
-    return null;
+    return 0;
 }
-
