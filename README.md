@@ -1,5 +1,8 @@
+# Hackerrank_30days of code
 
-# Hackerrank_30daysOFcode
+This is a repository aiming to provide solutions to 30 days code challenge (2020) conducted on hackerrank. 
+The solutions are available in the major languages c++, python and javascript as of now. It is a great platform
+to contribute and provide the solutions in other languages too.
 
 **:white_check_mark: ⇒ Completed**
 
