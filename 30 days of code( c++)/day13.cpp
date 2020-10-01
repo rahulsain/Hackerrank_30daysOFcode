@@ -1,9 +1,9 @@
 #include <cmath>
-// #include <cstdio>
-// #include <vector>
-// #include <iostream>
-// #include <algorithm>
-// #include <string>
+#include <cstdio>
+#include <vector>
+#include <iostream>
+#include <algorithm>
+#include <string>
 using namespace std;
 class Book{
     protected:
@@ -34,23 +34,23 @@ class MyBook : Book{
 
 
 };
-      Class Constructor
-      
-      Parameters:
-      title - The book's title.
-      author - The book's author.
-      price - The book's price.
+    //   Class Constructor
+    //   
+    //   Parameters:
+    //   title - The book's title.
+    //   author - The book's author.
+    //   price - The book's price.
+    //
+    // Write your constructor here
     
-    Write your constructor here
     
+    //   Function Name: display
+    //   Print the title, author, and price in the specified format.
+    //
+    // Write your method here
     
-      Function Name: display
-      Print the title, author, and price in the specified format.
-    
-    Write your method here
-    
-End class
-*/
+// End class
+
 int main() {
     string title,author;
     int price;
