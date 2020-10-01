@@ -29,6 +29,11 @@
 
 
 > **_NOTE:_** Before creating a Pull Request, make sure you add :white_check_mark: to [Completed](#completed)
+## Introduction
+
+Thirty days of code by Hackerrank is aimed at imroving your coding skills by coding for 30 days in a row.
+You can unlock a new code challenge and tutorial each day and then, submit solutions in Java, C++ and other popular languages.
+But, this can prove to be quite a difficult task at times. So, here are some solutions for you to go through.
 
 ## Table of Contents
 
@@ -84,7 +89,9 @@
 
 ### About The Repo
 
-This is a repository aiming to provide solutions to 30 days code challenge (2020) conducted on hackerrank. The solutions are available in the major languages c++, python and javascript as of now. It is a great platform to contribute and provide the solutions in other languages too.
+This is a repository aiming to provide solutions for 30 days code challenge (2020) conducted on Hackerrank. The solutions are available in major languages like c++, python and javascript as of now. It is a great platform for users to contribute and provide the solutions in other languages too.
+
+Happy coding!
 
 [contributors-shield]: https://img.shields.io/github/contributors/rahulsain3000/Hackerrank_30daysOFcode?style=flat-square
 [contributors-url]: https://github.com/rahulsain3000/Hackerrank_30daysOFcode/graphs/contributors
