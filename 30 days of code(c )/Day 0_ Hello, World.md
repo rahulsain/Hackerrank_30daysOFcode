@@ -10,8 +10,8 @@ _IN C Language_
 
 
 # Some Useful Articles
-[ Input with spaces ](https://stackoverflow.com/questions/39431924/what-does-n-mean-in-c)
-[ gets in c ](https://stackoverflow.com/questions/4346598/gets-function-in-c )
+1. [ Input with spaces ](https://stackoverflow.com/questions/39431924/what-does-n-mean-in-c)
+2. [ gets in c ](https://stackoverflow.com/questions/4346598/gets-function-in-c )
 
 
 `Note this is only one approach we are happy to hear  your approach`
