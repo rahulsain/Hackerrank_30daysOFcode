@@ -5,7 +5,7 @@
 #include <algorithm>
 using namespace std;
 
-
+// this is a simple code to print the string
 int main() {
     /* Enter your code here. Read input from STDIN. Print output to STDOUT */   
     int n,i,j,t;
