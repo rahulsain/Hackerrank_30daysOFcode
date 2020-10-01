@@ -14,9 +14,13 @@ int main() {
         for(long int j=sqrt(n[i]);j>1;j--){
             if(n[i]%j==0){
                 flag=1;
+                break;
             }
         }
         if(flag){
+            printf("Not prime\n");
+        }else
+        if(n[i]==1){
             printf("Not prime\n");
         }else{
             printf("Prime\n");
