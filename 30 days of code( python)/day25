@@ -1,0 +1,16 @@
+# Enter your code here. Read input from STDIN. Print output to STDOUT
+import math
+
+nos = int(input())
+for _ in range(nos):
+    flag = True
+    temp = int(input())
+    if temp == 1:
+        print('Not prime')
+    else:
+        for i in range(2, math.floor(math.sqrt(temp)) + 1):
+            if temp%i == 0:
+                flag = False
+                break
+        if(flag == True): print('Prime')
+        else: print('Not prime')
