@@ -1,12 +1,13 @@
 # Day 0: Hello, World
 
-_IN C Language_
-****
+/***_Welcome to 30 days of Code in C Language_***/
+
+
 
 
 ## [Problem Link](https://www.hackerrank.com/challenges/30-hello-world/problem)
 
->Try  solving Yourself First
+>Try Solving Yourself First
 
 
 # Some Useful Articles
