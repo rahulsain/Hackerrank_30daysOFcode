@@ -31,7 +31,7 @@
 > **_NOTE:_** Before creating a Pull Request, make sure you add :white_check_mark: to [Completed](#completed)
 ## Introduction
 
-Thirty days of code by Hackerrank is aimed at imroving your coding skills by coding for 30 days in a row.
+Thirty days of code by Hackerrank is aimed at improving your coding skills by coding for 30 days in a row.
 You can unlock a new code challenge and tutorial each day and then, submit solutions in Java, C++ and other popular languages.
 But, this can prove to be quite a difficult task at times. So, here are some solutions for you to go through.
 
