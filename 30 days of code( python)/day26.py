@@ -1,4 +1,4 @@
-# Day 30
+# Day 26
 # https://www.hackerrank.com/challenges/30-nested-logic/problem
 
 actual_day, actual_month, actual_year = list(map(int, input().split()))
