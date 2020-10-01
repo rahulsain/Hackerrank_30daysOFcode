@@ -10,7 +10,7 @@
 
 char* readline();
 
-// Complete the factorial function below.
+// the factorial function .
 int factorial(int n) {
 if(n<=0)
     return 1;
