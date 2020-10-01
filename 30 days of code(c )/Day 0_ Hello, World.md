@@ -1,6 +1,6 @@
 # Day 0: Hello, World
 
-/***_Welcome to 30 days of Code in C Language_***/
+//***  Welcome to 30 days of Code in C Language 
 
 
 
