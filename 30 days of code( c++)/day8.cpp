@@ -8,7 +8,7 @@ using namespace std;
 
 
 int main() {
-    /* Enter your code here. Read input from STDIN. Print output to STDOUT  
+    /* Enter your code here. Read input from STDIN. Print output to STDOUT */   
     int n;
 string name;
 long num;
@@ -24,7 +24,7 @@ while(cin >> name) {
     if (pBook.find(name) != pBook.end()) {
         cout << name << "=" << pBook.find(name)->second << endl;
     } else {
-        cout << "Not found" << endl;*/
+        cout << "Not found" << endl;
     }
 }
     return 0;

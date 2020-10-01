@@ -7,11 +7,11 @@ int factorial(int n) {
 int fact=1;
 while(n>0){
 fact=fact*n;
-n++;
+n--;
 } return fact;
 }
 
-int main(int a)
+int main()
 {
     ofstream fout(getenv("OUTPUT_PATH"));
 
