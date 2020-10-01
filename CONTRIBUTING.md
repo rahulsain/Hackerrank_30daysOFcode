@@ -1,3 +1,4 @@
+
 # Contribution Guidelines
 
 There are some guildelines which everyone should follow while contributing to this opensource project. While working in large teams, it is necessary to follow these steps to avoid any conflicts in the code and continue a smooth flow of collaboration amongst the developers.
@@ -17,6 +18,9 @@ There are some guildelines which everyone should follow while contributing to th
 6. Make the required changes if the reviewer asks for them.
 
 7. That's it! Your pull request will be merged once everything seems okay.
+
+> NOTE - 
+> Put a :white_check_mark: in the language column of the program you have implemented before creating a PR.**
 
 **Watch this Video if you are new to GitHub - [YouTube Link](https://youtu.be/HbSjyU2vf6Y)**
 
