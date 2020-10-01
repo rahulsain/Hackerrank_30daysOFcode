@@ -1,0 +1,12 @@
+// DAY 5
+#include <stdio.h>
+int main()
+{
+    int n=2,i,a;
+    // printf("table of 2\n");
+    for(i=1;i<=10;i++)
+    {
+    a=n*i;
+    printf("%d × %d = %d \n" , n,i,a);
+    }
+    return 0;
