@@ -1,16 +1,7 @@
 #include <iostream>
 #include <cstddef>
-using namespace std;	
-class Node
-{
-    public:
-        int data;
-        Node *next;
-        Node(int d){
-            data=d;
-            next=NULL;
-        }
-};
+// using namespace std;	
+
 class Solution{
     public:
 
