@@ -37,9 +37,11 @@ But, this can prove to be quite a difficult task at times. So, here are some sol
 
 ## Table of Contents
 
-- [Solutions](#solutions)
-- [Completed](#completed)
-- [About the Repo](#about-the-repo)
+- [Introduction](#introduction)
+- [Table of Contents](#table-of-contents)
+  - [Solutions](#solutions)
+  - [Completed](#completed)
+  - [About The Repo](#about-the-repo)
 
 ### Solutions
 
@@ -83,7 +85,7 @@ But, this can prove to be quite a difficult task at times. So, here are some sol
 | 24  | [More Linked Lists](https://www.hackerrank.com/challenges/30-linked-list-deletion/problem)                      |                                     | <center>:white_check_mark:</center> | <center>:white_check_mark:</center> | <center>:white_check_mark:</center> | <center>:white_check_mark:</center> |
 | 25  | [Running Time and Complexity](https://www.hackerrank.com/challenges/30-running-time-and-complexity/problem)     |                                     | <center>:white_check_mark:</center> | <center>:white_check_mark:</center> | <center>:white_check_mark:</center> |                                     |
 | 26  | [Nested Logic](https://www.hackerrank.com/challenges/30-nested-logic/problem)                                   | <center>:white_check_mark:</center> |                                     | <center>:white_check_mark:</center> | <center>:white_check_mark:</center> |                                     |
-| 27  | [Testing](https://www.hackerrank.com/challenges/30-testing/problem)                                             |                                     |                                     | <center>:white_check_mark:</center> | <center>:white_check_mark:</center> |                                     |
+| 27  | [Testing](https://www.hackerrank.com/challenges/30-testing/problem)                                             |<center>:white_check_mark:</center> |                                     | <center>:white_check_mark:</center> | <center>:white_check_mark:</center> |                                     |
 | 28  | [RegEx, Patterns, and Intro to Databases](https://www.hackerrank.com/challenges/30-regex-patterns/problem)      | <center>:white_check_mark:</center> | <center>:white_check_mark:</center> | <center>:white_check_mark:</center> | <center>:white_check_mark:</center> | <center>:white_check_mark:</center> |
 | 29  | [Bitwise AND](https://www.hackerrank.com/challenges/30-bitwise-and/problem)                                     | <center>:white_check_mark:</center> | <center>:white_check_mark:</center> | <center>:white_check_mark:</center> | <center>:white_check_mark:</center> | <center>:white_check_mark:</center> |
 
