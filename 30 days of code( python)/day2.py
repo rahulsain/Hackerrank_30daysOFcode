@@ -1,5 +1,5 @@
 #!/bin/python3
-
+# Day 2: Operators
 import math
 import os
 import random
