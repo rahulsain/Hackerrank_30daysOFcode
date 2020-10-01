@@ -1,6 +1,6 @@
 # Day 0: Hello, World
 
-//***  Welcome to 30 days of Code in C Language 
+>  Welcome to 30 days of Code in C Language !!
 
 
 
