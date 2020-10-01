@@ -27,7 +27,8 @@
   </p>
 </p>
 
-> **_NOTE:_** First, try to solve it on your own. If facing some difficulty, you can see this.
+
+> **_NOTE:_** Before creating a Pull Request, make sure you add :white_check_mark: to [Completed](#completed)
 
 ## Table of Contents
 
@@ -37,10 +38,12 @@
 
 ### Solutions
 
+> **_NOTE:_** First, try to solve it on your own. If facing some difficulty, you can see this.
+
 - [Python](<https://github.com/rahulsain3000/Hackerrank_30daysOFcode/tree/master/30%20days%20of%20code(%20python)>)
 - [C++](<https://github.com/rahulsain3000/Hackerrank_30daysOFcode/tree/master/30%20days%20of%20code(%20c%2B%2B)>)
-- [Java](https://github.com/rahulsain3000/Hackerrank_30daysOFcode/tree/master/30%20days%20of%20code%20JAVA)
-- [Javascript](https://github.com/rahulsain3000/Hackerrank_30daysOFcode/tree/master/Hackerrank_30daysOFcode_in_JavaScript)
+- [Java](<https://github.com/rahulsain3000/Hackerrank_30daysOFcode/tree/master/30%20days%20of%20code%20JAVA>)
+- [Javascript](<https://github.com/rahulsain3000/Hackerrank_30daysOFcode/tree/master/Hackerrank_30daysOFcode_in_JavaScript>)
 
 ### Completed
 
