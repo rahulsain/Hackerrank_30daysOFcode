@@ -59,8 +59,8 @@
 |  08   |  [Dictionaries and Maps](https://www.hackerrank.com/challenges/30-dictionaries-and-maps/problem)    |     |     |   <center>:white_check_mark:</center> |     |   <center>:white_check_mark:</center> |
 |  09   |  [Recursion 3](https://www.hackerrank.com/challenges/30-recursion/problem)    |     |     |   <center>:white_check_mark:</center> |     |   <center>:white_check_mark:</center> |
 |  10   |  [Binary Numbers](https://www.hackerrank.com/challenges/30-binary-numbers/problem)    |     |     |   <center>:white_check_mark:</center> |     |   <center>:white_check_mark:</center> |
-|  11   |  [2D Arrays](https://www.hackerrank.com/challenges/30-2d-arrays/problem)    |     |     |   <center>:white_check_mark:</center> |     |   <center>:white_check_mark:</center> |
-|  12   |  [Inheritance](https://www.hackerrank.com/challenges/30-inheritance/problem)    |     |     |   <center>:white_check_mark:</center> |     |   <center>:white_check_mark:</center> |
+|  11   |  [2D Arrays](https://www.hackerrank.com/challenges/30-2d-arrays/problem)    |     |     |   <center>:white_check_mark:</center> |  <center>:white_check_mark:</center>   |   <center>:white_check_mark:</center> |
+|  12   |  [Inheritance](https://www.hackerrank.com/challenges/30-inheritance/problem)    |     |     |   <center>:white_check_mark:</center> |  <center>:white_check_mark:</center>   |   <center>:white_check_mark:</center> |
 |  13   |  [Abstract Classes](https://www.hackerrank.com/challenges/30-abstract-classes/problem)    |     |     |   <center>:white_check_mark:</center> |     |   <center>:white_check_mark:</center> |
 |  14   |  [Scope](https://www.hackerrank.com/challenges/30-scope/problem)    |     |     |   <center>:white_check_mark:</center> |     |     |
 |  15   |  [Linked List](https://www.hackerrank.com/challenges/30-linked-list/problem)    |     |     |   <center>:white_check_mark:</center> |     |   <center>:white_check_mark:</center> |
