@@ -1,3 +1,4 @@
+
 [![Contributors][contributors-shield]][contributors-url]
 [![Forks][forks-shield]][forks-url]
 [![Stargazers][stars-shield]][stars-url]
@@ -51,10 +52,13 @@ But, this can prove to be quite a difficult task at times. So, here are some sol
 - [C++](<https://github.com/rahulsain3000/Hackerrank_30daysOFcode/tree/master/30%20days%20of%20code(%20c%2B%2B)>)
 - [Java](https://github.com/rahulsain3000/Hackerrank_30daysOFcode/tree/master/30%20days%20of%20code%20JAVA)
 - [Javascript](https://github.com/rahulsain3000/Hackerrank_30daysOFcode/tree/master/Hackerrank_30daysOFcode_in_JavaScript)
+- [Go](https://github.com/rahulsain3000/Hackerrank_30daysOFcode/tree/master/Hackerrank_30daysOFcode_Go)
+- [C](https://github.com/rahulsain3000/Hackerrank_30daysOFcode/tree/master/30%20days%20of%20code(c%20))
 
 ### Completed
 
 **:white_check_mark: ⇒ Completed**
+**:x: ⇒ Invalid/Cannot be implemented**
 
 | Day | Problem Statement                                                                                               | Python                              | C                                   | C++                                 | Java                                | Javascript                          | Go                                  |
 | --- | --------------------------------------------------------------------------------------------------------------- | ----------------------------------- | ----------------------------------- | ----------------------------------- | ----------------------------------- | ----------------------------------- | ----------------------------------- |
@@ -79,19 +83,19 @@ But, this can prove to be quite a difficult task at times. So, here are some sol
 | 18  | [Queues and Stacks](https://www.hackerrank.com/challenges/30-queues-stacks/problem)                             | <center>:white_check_mark:</center> | <center>:white_check_mark:</center> | <center>:white_check_mark:</center> | <center>:white_check_mark:</center> | <center>:white_check_mark:</center> |
 | 19  | [Interfaces](https://www.hackerrank.com/challenges/30-interfaces/problem)                                       | <center>:white_check_mark:</center> |                                     | <center>:white_check_mark:</center> | <center>:white_check_mark:</center> | <center>:white_check_mark:</center> |
 | 20  | [Sorting](https://www.hackerrank.com/challenges/30-sorting/problem)                                             | <center>:white_check_mark:</center> | <center>:white_check_mark:</center> | <center>:white_check_mark:</center> | <center>:white_check_mark:</center> | <center>:white_check_mark:</center> |
-| 21  | [Generics](https://www.hackerrank.com/challenges/30-generics/problem)                                           |                                     |                                     | <center>:white_check_mark:</center> | <center>:white_check_mark:</center> |                                     |
+| 21  | [Generics](https://www.hackerrank.com/challenges/30-generics/problem)                                           | <center>:x:</center>                                      |    <center>:x:</center>                                 | <center>:white_check_mark:</center> | <center>:white_check_mark:</center> |                                     |
 | 22  | [Binary Search Trees](https://www.hackerrank.com/challenges/30-binary-search-trees/problem)                     | <center>:white_check_mark:</center> | <center>:white_check_mark:</center> | <center>:white_check_mark:</center> | <center>:white_check_mark:</center> | <center>:white_check_mark:</center> |
 | 23  | [BST Level-Order Traversal](https://www.hackerrank.com/challenges/30-binary-trees/problem)                      | <center>:white_check_mark:</center> | <center>:white_check_mark:</center> | <center>:white_check_mark:</center> | <center>:white_check_mark:</center> | <center>:white_check_mark:</center> |
 | 24  | [More Linked Lists](https://www.hackerrank.com/challenges/30-linked-list-deletion/problem)                      | <center>:white_check_mark:</center> | <center>:white_check_mark:</center> | <center>:white_check_mark:</center> | <center>:white_check_mark:</center> | <center>:white_check_mark:</center> |
 | 25  | [Running Time and Complexity](https://www.hackerrank.com/challenges/30-running-time-and-complexity/problem)     | <center>:white_check_mark:</center> | <center>:white_check_mark:</center> | <center>:white_check_mark:</center> | <center>:white_check_mark:</center> | <center>:white_check_mark:</center> |
 | 26  | [Nested Logic](https://www.hackerrank.com/challenges/30-nested-logic/problem)                                   | <center>:white_check_mark:</center> | <center>:white_check_mark:</center> | <center>:white_check_mark:</center> | <center>:white_check_mark:</center> | <center>:white_check_mark:</center> |
-| 27  | [Testing](https://www.hackerrank.com/challenges/30-testing/problem)                                             | <center>:white_check_mark:</center> |                                     | <center>:white_check_mark:</center> | <center>:white_check_mark:</center> |                                     |
+| 27  | [Testing](https://www.hackerrank.com/challenges/30-testing/problem)                                             | <center>:white_check_mark:</center> | <center>:x:</center>                                    | <center>:white_check_mark:</center> | <center>:white_check_mark:</center> |                                     |
 | 28  | [RegEx, Patterns, and Intro to Databases](https://www.hackerrank.com/challenges/30-regex-patterns/problem)      | <center>:white_check_mark:</center> | <center>:white_check_mark:</center> | <center>:white_check_mark:</center> | <center>:white_check_mark:</center> | <center>:white_check_mark:</center> |
 | 29  | [Bitwise AND](https://www.hackerrank.com/challenges/30-bitwise-and/problem)                                     | <center>:white_check_mark:</center> | <center>:white_check_mark:</center> | <center>:white_check_mark:</center> | <center>:white_check_mark:</center> | <center>:white_check_mark:</center> |
 
 ### About The Repo
 
-This is a repository aiming to provide solutions for 30 days code challenge (2020) conducted on Hackerrank. The solutions are available in major languages like c++, python and javascript as of now. It is a great platform for users to contribute and provide the solutions in other languages too.
+This is a repository aiming to provide solutions for 30 days code challenge (2020) conducted on Hackerrank. The solutions are available in major languages like C, C++, Python, Go and Javascript as of now. It is a great platform for users to contribute and provide the solutions in other languages too.
 
 Happy coding!
 
