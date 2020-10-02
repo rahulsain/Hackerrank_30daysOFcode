@@ -27,8 +27,8 @@
   </p>
 </p>
 
-
 > **_NOTE:_** Before creating a Pull Request, make sure you add :white_check_mark: to [Completed](#completed)
+
 ## Introduction
 
 Thirty days of code by Hackerrank is aimed at improving your coding skills by coding for 30 days in a row.
@@ -47,8 +47,8 @@ But, this can prove to be quite a difficult task at times. So, here are some sol
 
 - [Python](<https://github.com/rahulsain3000/Hackerrank_30daysOFcode/tree/master/30%20days%20of%20code(%20python)>)
 - [C++](<https://github.com/rahulsain3000/Hackerrank_30daysOFcode/tree/master/30%20days%20of%20code(%20c%2B%2B)>)
-- [Java](<https://github.com/rahulsain3000/Hackerrank_30daysOFcode/tree/master/30%20days%20of%20code%20JAVA>)
-- [Javascript](<https://github.com/rahulsain3000/Hackerrank_30daysOFcode/tree/master/Hackerrank_30daysOFcode_in_JavaScript>)
+- [Java](https://github.com/rahulsain3000/Hackerrank_30daysOFcode/tree/master/30%20days%20of%20code%20JAVA)
+- [Javascript](https://github.com/rahulsain3000/Hackerrank_30daysOFcode/tree/master/Hackerrank_30daysOFcode_in_JavaScript)
 
 ### Completed
 
@@ -70,7 +70,7 @@ But, this can prove to be quite a difficult task at times. So, here are some sol
 | 11  | [2D Arrays](https://www.hackerrank.com/challenges/30-2d-arrays/problem)                                         | <center>:white_check_mark:</center> | <center>:white_check_mark:</center> | <center>:white_check_mark:</center> | <center>:white_check_mark:</center> | <center>:white_check_mark:</center> |
 | 12  | [Inheritance](https://www.hackerrank.com/challenges/30-inheritance/problem)                                     | <center>:white_check_mark:</center> |                                     | <center>:white_check_mark:</center> | <center>:white_check_mark:</center> | <center>:white_check_mark:</center> |
 | 13  | [Abstract Classes](https://www.hackerrank.com/challenges/30-abstract-classes/problem)                           | <center>:white_check_mark:</center> |                                     | <center>:white_check_mark:</center> | <center>:white_check_mark:</center> | <center>:white_check_mark:</center> |
-| 14  | [Scope](https://www.hackerrank.com/challenges/30-scope/problem)                                                 |                                     |                                     | <center>:white_check_mark:</center> | <center>:white_check_mark:</center> |                                     |
+| 14  | [Scope](https://www.hackerrank.com/challenges/30-scope/problem)                                                 | <center>:white_check_mark:</center> |                                     | <center>:white_check_mark:</center> | <center>:white_check_mark:</center> |                                     |
 | 15  | [Linked List](https://www.hackerrank.com/challenges/30-linked-list/problem)                                     | <center>:white_check_mark:</center> | <center>:white_check_mark:</center> | <center>:white_check_mark:</center> | <center>:white_check_mark:</center> | <center>:white_check_mark:</center> |
 | 16  | [Exceptions - String to Integer](https://www.hackerrank.com/challenges/30-exceptions-string-to-integer/problem) | <center>:white_check_mark:</center> |                                     | <center>:white_check_mark:</center> | <center>:white_check_mark:</center> | <center>:white_check_mark:</center> |
 | 17  | [More Exceptions](https://www.hackerrank.com/challenges/30-more-exceptions/problem)                             |                                     |                                     | <center>:white_check_mark:</center> | <center>:white_check_mark:</center> | <center>:white_check_mark:</center> |
