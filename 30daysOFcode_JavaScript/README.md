@@ -11,4 +11,4 @@
 
 - **Convention**: <br/>
     If **HackerRank.js** is the solution file,
-    Test file should be name **HackerRank.test.js**
+    Test file should be named **HackerRank.test.js**
