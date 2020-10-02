@@ -1,0 +1,30 @@
+{
+  "name": "30daysofcode_javascript",
+  "version": "1.0.0",
+  "description": "js solutions for hackerrank 30 days of code",
+  "main": "day_1-Data_Types.js",
+  "directories": {
+    "test": "tests"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rahulsain3000/Hackerrank_30daysOFcode.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/rahulsain3000/Hackerrank_30daysOFcode/issues"
+  },
+  "homepage": "https://github.com/rahulsain3000/Hackerrank_30daysOFcode#readme",
+  "dependencies": {
+    "jest": "^26.4.2"
+  },
+  "scripts": {
+    "test": "jest --verbose"
+  },
+  "jest": {
+    "testMatch": [
+      "**/*.test.js"
+    ]
+  }
+}
