@@ -58,6 +58,7 @@ But, this can prove to be quite a difficult task at times. So, here are some sol
 ### Completed
 
 **:white_check_mark: ⇒ Completed**
+
 **:x: ⇒ Invalid/Cannot be implemented**
 
 | Day | Problem Statement                                                                                               | Python                              | C                                   | C++                                 | Java                                | Javascript                          | Go                                  |
