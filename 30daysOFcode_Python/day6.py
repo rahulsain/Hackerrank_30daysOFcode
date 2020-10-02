@@ -1,13 +1,10 @@
-# 30 days of code Day6 solution in Python 3 Hackerrank
-strings = []
-for _ in range(int(input())):
-    strings.append(input())
+# Enter your code here. Read input from STDIN. Print output to STDOUT
+t = int(input().strip())
+for _ in range(t):
+    s = input().strip()
+    n = len(s)
 
-for word in strings:
-    odd = ""
-    for i in range(len(word)):
-        if (i%2 == 0):
-            print(word[i],end="")
-        else:
-            odd +=word[i]
-    print(f" {odd}")
+    even = [s[i] for i in range(0, n, 2)] # list of even chars
+    odd = [s[i] for i in range(1, n, 2)] # list of odd chars
+
+    print(''.join(even), ''.join(odd))
