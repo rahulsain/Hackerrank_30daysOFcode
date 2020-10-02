@@ -4,7 +4,6 @@ public class day0 {
         String input_string;
         Scanner sc=new Scanner(System.in);
         input_string=sc.nextLine();
-        System.out.println("Hello, World.");
-        System.out.println(input_string);
+        System.out.println("Hello, World.\n"+input_string);
     }
 }
