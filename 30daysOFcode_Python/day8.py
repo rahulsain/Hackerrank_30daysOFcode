@@ -1,25 +1,18 @@
+# Enter your code here. Read input from STDIN. Print output to STDOUT
+n = int(input())
+phoneBook = {}
+for i in range(n):
+    name, phoneNo = input().strip().split(' ')
+    phoneBook[name] = phoneBook.get(name, phoneNo)
 
-name =""
-phn = 0
-contact = {}
-for _ in range(n):
-    name,no = input().split()
-    phn = int(no)
-    contact[name] = phn
+phoneBookKeys = phoneBook.keys()
 
-
-query = []
-inp = True
-while(inp):
-    
+while 1:
     try:
-        q = input()
-        query.append(q)
-    except EOFError as e:
-        inp = False
-
-for qw in query:
-    if(contact.get(qw)!= None):
-        print(f"{qw}={contact[qw]}")
-    else:
-        print("Not found")
+        name = input().strip()
+        if name in phoneBookKeys:
+            print(name, phoneBook[name], sep='=')
+        else:
+            print('Not found')
+    except:
+        break
