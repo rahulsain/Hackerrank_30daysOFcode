@@ -6,28 +6,21 @@ import random
 import re
 import sys
 
-def tobinary(n):
-    s = ""
-    while n>0 :
-        s = str(n%2) + s
-        n = n//2
-    return s
 
-def func(n):
-    s = tobinary(n)
-    i = 0
-    mx = -1
-    while i < len(s):
-        count = 0
-        while i < len(s) and s[i] == '1' :
-            count = count + 1
-            i = i + 1
-        mx = max(count,mx)
-        if count == 0:
-            i = i + 1
-    return mx
+# a pythonic solution
+
 
 if __name__ == '__main__':
-    n = int(input())
-    
-    print( func(n) )
+   
+    n = int(input())#n is the input
+    binary=bin(n)#convert n to its binary representation with suffix as 0b for ex: n=2 then binary=0b0010
+    c=0
+    s=[]
+    max_count=-1
+    for ones in binary[2:]:
+        if ones=='1':
+            c=c+1
+        else:
+            c=0
+        max_count=max(max_count,c)
+    print(t)
