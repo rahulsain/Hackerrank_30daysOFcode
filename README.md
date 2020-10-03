@@ -1,6 +1,6 @@
 # Overview
  
-This Folder Contains 30-Day of Code in C# on Platform Hackerrank..
+This Folder Contains 30-Day of Code in multiple Programming Language like C,C++,Python,etc on Platform Hackerrank..
 
 
 # Motivation
