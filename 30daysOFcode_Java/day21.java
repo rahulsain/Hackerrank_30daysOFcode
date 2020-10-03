@@ -12,7 +12,6 @@ class Printer <T> {
 
     public static <E> void printArray(E[] a)
     {
-        int i;
         for(E elements: a)
         {
             System.out.println(elements);
