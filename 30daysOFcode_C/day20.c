@@ -1,8 +1,10 @@
 #include<stdio.h>
 int main(){
-	int i, j, n, temp, swap=0;
+
+	int i, j, n, temp, swap=0; //Variable Declaration
 	scanf("%d", &n);
-	int arr[n]; //Declaration
+	int arr[n]; //Array Declaration
+
 	for(i=0;i<n;i++){
 		scanf("%d", &arr[i]); //Input Elements Into Array 
 	}
