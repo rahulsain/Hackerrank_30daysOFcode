@@ -108,7 +108,7 @@ This is a repository aiming to provide solutions for 30 days code challenge (202
 **EDIT:** Happy to annouce that due in increase in contribution in this repo, our repo has been highlighted on [Hacktoberfest](https://hacktoberfest.digitalocean.com/) site itself.
 
 <p align="center">
-  <a href="https://drive.google.com/drive/folders/1aAdzE0yUZflcrZpvGckZsxLeuvDQjuk9?usp=sharing"><img src="https://i.ibb.co/1mnBN5H/hacktoberfest2020-main-LI.jpg" alt="hacktoberfest2020-main-LI" border="0" /></a></p>
+  <a href="https://drive.google.com/drive/folders/1aAdzE0yUZflcrZpvGckZsxLeuvDQjuk9?usp=sharing"><img src="https://i.ibb.co/1mnBN5H/hacktoberfest2020-main-LI.jpg" alt="hacktoberfest2020-main-LI" border="0" target="_blank" /></a></p>
 
 ### Credits
 
