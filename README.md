@@ -116,7 +116,7 @@ This is a repository aiming to provide solutions for 30 days code challenge (202
 
 To all the contributors/collaborators out there spending there time to make valuable contribution in this beginner friendly repo and special thanks to [DigitalOcean](https://www.digitalocean.com/) for organizing such an awsome fest with [Intel](https://hacktoberfest.digitalocean.com/intel.pdf) and [DEV](https://github.com/forem/forem) on [GitHub](https://github.com/). This fest has helped beginners to join/learn how open source works.
 
-Looking forward for more contribution in this community. Happy coding!
+Looking forward for more contribution in this [community](https://discord.gg/XS9NvNt). Happy coding!
 
 [contributors-shield]: https://img.shields.io/github/contributors/rahulsain3000/Hackerrank_30daysOFcode?style=flat-square
 [contributors-url]: https://github.com/rahulsain3000/Hackerrank_30daysOFcode/graphs/contributors
