@@ -1,39 +1,24 @@
-#include <math.h>
-#include <stdio.h>
-#include <string.h>
-#include <stdlib.h>
-#include <assert.h>
-#include <limits.h>
-#include <stdbool.h>
-
+#include<stdio.h>
 int main(){
-    int n; 
-    scanf("%d",&n);
-    int *a = malloc(sizeof(int) * n);
-    for(int a_i = 0; a_i < n; a_i++){
-       scanf("%d",&a[a_i]);
-    }
-    
-    int total = 0;
-    for (int i = 0; i < n; i++) {
-        int s = 0;
-        for (int j = 0; j < n-1; j++) {
-            if (a[j] > a[j+1]) {
-                int t = a[j];
-                a[j] = a[j+1];
-                a[j+1] = t;
-                s++;
-                total++;
-            }
-        }
-        if (s == 0)
-            break;
-    }
-    
-    printf("Array is sorted in %d swaps.\n", total);
-    printf("First Element: %d\n", a[0]);
-    printf("Last Element: %d\n", a[n-1]);
-    
-    return 0;
+	int i, j, n, temp, swap=0; //Variable Declaration
+	scanf("%d", &n);
+	int arr[n]; //Array Declaration
+	for(i=0;i<n;i++){
+		scanf("%d", &arr[i]); //Input Elements Into Array 
+	}
+	for(i=0;i<n;i++){ 
+		for(j=i+1;j<n;j++){
+			if(arr[i] > arr[j]){
+				temp = arr[i];
+				arr[i] = arr[j]; //Sorting The Elements Of The Array
+				arr[j] = temp;
+				swap++;	
+			}
+		}
+	}
+    //Output
+	printf("Array is sorted in %d swaps.\n", swap);
+	printf("First Element: %d\n", arr[0]);
+	printf("Last Element: %d\n", arr[n-1]);
+	return 0;
 }
-
