@@ -24,7 +24,8 @@
     <a href="https://github.com/rahulsain3000/Hackerrank_30daysOFcode/issues">Request Code</a>
     <br/>
     <a href="https://www.hackerrank.com/domains/tutorials/30-days-of-code">Try Yourself</a>
-
+    ·
+    <a href="https://discord.gg/XS9NvNt">Join our discord server</a>
   </p>
 </p>
 
@@ -43,6 +44,7 @@ But, this can prove to be quite a difficult task at times. So, here are some sol
   - [Solutions](#solutions)
   - [Completed](#completed)
   - [About The Repo](#about-the-repo)
+  - [Credits](#credits)
 
 ### Solutions
 
@@ -104,22 +106,24 @@ But, this can prove to be quite a difficult task at times. So, here are some sol
 
 This is a repository aiming to provide solutions for 30 days code challenge (2020) conducted on Hackerrank. The solutions are available in major languages like C, C++, Python, Go ,Java ,C#, Javascript, PHP, Typescript and Swift as of now. It is a great platform for users to contribute and provide the solutions in other languages too.
 
+**EDIT:** Happy to annouce that due in increase in contribution in this repo, our repo has been highlighted on [Hacktoberfest](https://hacktoberfest.digitalocean.com/) site itself.
 
-Happy coding!
+<p align="center">
+  <a href="https://drive.google.com/drive/folders/1aAdzE0yUZflcrZpvGckZsxLeuvDQjuk9?usp=sharing" target="_blank"><img src="https://i.ibb.co/1mnBN5H/hacktoberfest2020-main-LI.jpg" alt="hacktoberfest2020-main-LI" border="0"/></a>
+</p>
+
+### Credits
+
+
+To all the contributors/collaborators out there spending there time to make valuable contribution in this beginner friendly repo and special thanks to [DigitalOcean](https://www.digitalocean.com/) for organizing such an awsome fest with [Intel](https://hacktoberfest.digitalocean.com/intel.pdf) and [DEV](https://github.com/forem/forem) on [GitHub](https://github.com/). This fest has helped beginners to join/learn how open source works.
+
+Looking forward for more contribution in this [community](https://discord.gg/XS9NvNt). Happy coding!
 
 [contributors-shield]: https://img.shields.io/github/contributors/rahulsain3000/Hackerrank_30daysOFcode?style=flat-square
 [contributors-url]: https://github.com/rahulsain3000/Hackerrank_30daysOFcode/graphs/contributors
 [forks-shield]: https://img.shields.io/github/forks/rahulsain3000/Hackerrank_30daysOFcode?style=flat-square
 [forks-url]: https://github.com/rahulsain3000/Hackerrank_30daysOFcode/network/members
-[stars-shield]: https://img.shields.io/github/stars/rahulsain3000/Hackerrank_30daysOFcode?color=
-
-
-
-
-
-
-
-&style=flat-square
+[stars-shield]: https://img.shields.io/github/stars/rahulsain3000/Hackerrank_30daysOFcode?color=red&style=flat-square
 [stars-url]: https://github.com/rahulsain3000/Hackerrank_30daysOFcode/stargazers
 [issues-shield]: https://img.shields.io/github/issues/rahulsain3000/Hackerrank_30daysOFcode?color=orange&style=flat-square
 [issues-url]: https://github.com/rahulsain3000/Hackerrank_30daysOFcode/issues
