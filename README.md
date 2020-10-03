@@ -28,7 +28,7 @@
   </p>
 </p>
 
-> **_NOTE:_** Before creating a Pull Request, make sure you add :white_check_mark: to [Completed](#completed)
+> **_NOTE:_** Before creating a Pull Request, make sure you add :white_check_mark: to [Completed](#completed) or if it can not be execute in that particular language then add :x: to [Completed](#completed) in that particular problem.
 
 ## Introduction
 
