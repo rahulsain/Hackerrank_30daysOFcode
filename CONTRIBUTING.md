@@ -1,7 +1,7 @@
 
 # Contribution Guidelines
 
-There are some guildelines which everyone should follow while contributing to this opensource project. While working in large teams, it is necessary to follow these steps to avoid any conflicts in the code and continue a smooth flow of collaboration amongst the developers.
+There are some guidelines which everyone should follow while contributing to this opensource project. While working in large teams, it is necessary to follow these steps to avoid any conflicts in the code and continue a smooth flow of collaboration amongst the developers.
 
 ## Please follow these steps if you wish to contribute to the project:
 
