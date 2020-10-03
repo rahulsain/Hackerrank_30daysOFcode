@@ -24,7 +24,8 @@
     <a href="https://github.com/rahulsain3000/Hackerrank_30daysOFcode/issues">Request Code</a>
     <br/>
     <a href="https://www.hackerrank.com/domains/tutorials/30-days-of-code">Try Yourself</a>
-
+    ·
+    <a href="https://discord.gg/XS9NvNt">Join our discord server</a>
   </p>
 </p>
 
