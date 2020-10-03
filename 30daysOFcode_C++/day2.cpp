@@ -27,17 +27,21 @@ void solve(double meal_cost, int tip_percent, int tax_percent) {
 int main()
 {
     double meal_cost;
+    cout<<"Enter the cost of meal: ";
     cin >> meal_cost;
     cin.ignore(numeric_limits<streamsize>::max(), '\n');
 
     int tip_percent;
+    cout<<"\nEnter the percentage of tip given: ";
     cin >> tip_percent;
     cin.ignore(numeric_limits<streamsize>::max(), '\n');
 
     int tax_percent;
+    cout<<"\nEnter the tax percentage: ";
     cin >> tax_percent;
     cin.ignore(numeric_limits<streamsize>::max(), '\n');
 
+    cout<<"\nThe Total cost of meal is: ";
     solve(meal_cost, tip_percent, tax_percent);
 
     return 0;
