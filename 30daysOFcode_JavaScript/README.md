@@ -10,5 +10,5 @@
 - While contributing, Please add a test file in the tests folder corresponding to the original program file following the naming convention.
 
 - **Convention**: <br/>
-    If **HackerRank.js** is the solution file,
-    Test file should be named **HackerRank.test.js**
+    If **HackerRank.test.js** is the solution file,
+    Test file should be named **HackerRank.js**
