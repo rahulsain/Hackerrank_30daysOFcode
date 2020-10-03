@@ -26,23 +26,24 @@ func main() {
 }
 
 type Solution struct {
-	queue []byte
-	stack []byte
+	queue []rune
+	stack []rune
 }
 
-type (s *Solution) pushCharacter(c byte) {
+func (s *Solution) pushCharacter(c rune) {
 	s.stack = append(s.stack, c)
 }
-type (s *Solution) enqueueCharacter(c byte) {
+func (s *Solution) enqueueCharacter(c rune) {
 	s.queue = append(s.queue, c)
 }
-type (s *Solution) popCharacter() (char) {
+func (s *Solution) popCharacter() (rune) {
 	c := s.stack[len(s.stack) - 1]
-	s.stack = s.stack[0:len(s.stack)]
+	s.stack = s.stack[:len(s.stack) - 1]
 	return c
 }
-type (s *Solution) dequeueCharacter() (char) {
+func (s *Solution) dequeueCharacter() (rune) {
 	c := s.queue[0]
-	s.queue = s.queue[1:len(s.queue)+1]
+	s.queue = s.queue[1:]
+	fmt.Println(c)
 	return c
 }
