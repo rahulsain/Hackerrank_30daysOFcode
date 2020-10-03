@@ -1,7 +1,10 @@
-# Hackerrank_30days of code
+# Overview
+ 
+This Folder Contains 30-Day of Code in C# on Platform Hackerrank..
 
-This is a repository aiming to provide solutions to 30 days code challenge (2020) conducted on hackerrank. 
-The solutions are available in the major languages c++, python and javascript as of now. It is a great platform
-to contribute and provide the solutions in other languages too.
 
-for questions check out at https://www.hackerrank.com/domains/tutorials/30-days-of-code
+# Motivation
+The only purpose of this repo is you can check solution of that question and match with your own solutin get improved your logic
+
+# Credit 
+Thanks @rahulsain300  for Doing this for Programmer community!
