@@ -43,6 +43,7 @@ But, this can prove to be quite a difficult task at times. So, here are some sol
   - [Solutions](#solutions)
   - [Completed](#completed)
   - [About The Repo](#about-the-repo)
+  - [Credits](#credits)
 
 ### Solutions
 
@@ -88,7 +89,7 @@ But, this can prove to be quite a difficult task at times. So, here are some sol
 | 18  | [Queues and Stacks](https://www.hackerrank.com/challenges/30-queues-stacks/problem)                             | <center>:white_check_mark:</center> |        <center>:x:</center>         | <center>:white_check_mark:</center> | <center>:white_check_mark:</center> | <center>:white_check_mark:</center> | <center>:white_check_mark:</center> | <center>:white_check_mark:</center> |
 | 19  | [Interfaces](https://www.hackerrank.com/challenges/30-interfaces/problem)                                       | <center>:white_check_mark:</center> |        <center>:x:</center>         | <center>:white_check_mark:</center> | <center>:white_check_mark:</center> | <center>:white_check_mark:</center> | <center>:white_check_mark:</center> | <center>:white_check_mark:</center> |
 | 20  | [Sorting](https://www.hackerrank.com/challenges/30-sorting/problem)                                             | <center>:white_check_mark:</center> | <center>:white_check_mark:</center> | <center>:white_check_mark:</center> | <center>:white_check_mark:</center> | <center>:white_check_mark:</center> | <center>:white_check_mark:</center> | <center>:white_check_mark:</center> |
-| 21  | [Generics](https://www.hackerrank.com/challenges/30-generics/problem)                                           |        <center>:white_check_mark:</center>         |        <center>:x:</center>         | <center>:white_check_mark:</center> | <center>:white_check_mark:</center> |        <center>:x:</center>         | <center>:white_check_mark:</center> | <center>:white_check_mark:</center> |
+| 21  | [Generics](https://www.hackerrank.com/challenges/30-generics/problem)                                           | <center>:white_check_mark:</center> |        <center>:x:</center>         | <center>:white_check_mark:</center> | <center>:white_check_mark:</center> |        <center>:x:</center>         | <center>:white_check_mark:</center> | <center>:white_check_mark:</center> |
 | 22  | [Binary Search Trees](https://www.hackerrank.com/challenges/30-binary-search-trees/problem)                     | <center>:white_check_mark:</center> | <center>:white_check_mark:</center> | <center>:white_check_mark:</center> | <center>:white_check_mark:</center> | <center>:white_check_mark:</center> | <center>:white_check_mark:</center> | <center>:white_check_mark:</center> |
 | 23  | [BST Level-Order Traversal](https://www.hackerrank.com/challenges/30-binary-trees/problem)                      | <center>:white_check_mark:</center> | <center>:white_check_mark:</center> | <center>:white_check_mark:</center> | <center>:white_check_mark:</center> | <center>:white_check_mark:</center> | <center>:white_check_mark:</center> | <center>:white_check_mark:</center>
 | 24  | [More Linked Lists](https://www.hackerrank.com/challenges/30-linked-list-deletion/problem)                      | <center>:white_check_mark:</center> | <center>:white_check_mark:</center> | <center>:white_check_mark:</center> | <center>:white_check_mark:</center> | <center>:white_check_mark:</center> |										                  | <center>:white_check_mark:</center> |
@@ -104,8 +105,17 @@ But, this can prove to be quite a difficult task at times. So, here are some sol
 
 This is a repository aiming to provide solutions for 30 days code challenge (2020) conducted on Hackerrank. The solutions are available in major languages like C, C++, Python, Go ,Java ,C#, Javascript, PHP, Typescript and Swift as of now. It is a great platform for users to contribute and provide the solutions in other languages too.
 
+**EDIT:** Happy to annouce that due in increase in contribution in this repo, our repo has been highlighted on [Hacktoberfest](https://hacktoberfest.digitalocean.com/) site itself.
 
-Happy coding!
+<p align="center">
+  <a href="https://drive.google.com/drive/folders/1aAdzE0yUZflcrZpvGckZsxLeuvDQjuk9?usp=sharing"><img src="https://i.ibb.co/1mnBN5H/hacktoberfest2020-main-LI.jpg" alt="hacktoberfest2020-main-LI" border="0" /></a></p>
+
+### Credits
+
+
+To all the contributors/collaborators out there spending there time to make valuable contribution in this beginner friendly repo and special thanks to [DigitalOcean](https://www.digitalocean.com/) for organizing such an awsome fest with [Intel](https://hacktoberfest.digitalocean.com/intel.pdf) and [DEV](https://github.com/forem/forem) on [GitHub](https://github.com/). This fest has helped beginners to join/learn how open source works.
+
+Looking forward for more contribution in this community. Happy coding!
 
 [contributors-shield]: https://img.shields.io/github/contributors/rahulsain3000/Hackerrank_30daysOFcode?style=flat-square
 [contributors-url]: https://github.com/rahulsain3000/Hackerrank_30daysOFcode/graphs/contributors
