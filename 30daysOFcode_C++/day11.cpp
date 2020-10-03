@@ -2,10 +2,7 @@
 
 using namespace std;
 
-
-
-int main()
-{
+int main() {
     vector<vector<int>> arr(6);
     for (int i = 0; i < 6; i++) {
         arr[i].resize(6);
