@@ -55,6 +55,7 @@ But, this can prove to be quite a difficult task at times. So, here are some sol
 - [Go](<https://github.com/rahulsain3000/Hackerrank_30daysOFcode/tree/master/30daysOFcode_Go>)
 - [C](<https://github.com/rahulsain3000/Hackerrank_30daysOFcode/tree/master/30daysOFcode_C>)
 - [C#](<https://github.com/rahulsain3000/Hackerrank_30daysOFcode/tree/master/30daysOFcode_C%23>)
+- [PHP](<https://github.com/rahulsain3000/Hackerrank_30daysOFcode/tree/master/30daysOFcode_Php>)
 
 ### Completed
 
@@ -62,7 +63,7 @@ But, this can prove to be quite a difficult task at times. So, here are some sol
 
 **:x: ⇒ Invalid/Cannot be implemented**
 
-| Day | Problem Statement                                                                                               | Python                              | C                                   | C++                                 | Java                                | Javascript                          | Go                                  | C#                                  |
+| Day | Problem Statement                                                                                               | Python                              | C                                                | C++                                 | Java                                | Javascript                          | Go                                  | C#                                         |
 | --- | --------------------------------------------------------------------------------------------------------------- | ----------------------------------- | ----------------------------------- | ----------------------------------- | ----------------------------------- | ----------------------------------- | ----------------------------------- | ----------------------------------- |
 | 00  | [Hello, World.](https://www.hackerrank.com/challenges/30-hello-world/problem)                                   | <center>:white_check_mark:</center> | <center>:white_check_mark:</center> | <center>:white_check_mark:</center> | <center>:white_check_mark:</center> | <center>:white_check_mark:</center> | <center>:white_check_mark:</center> | <center>:white_check_mark:</center> |
 | 01  | [Data Types](https://www.hackerrank.com/challenges/30-data-types/problem)                                       | <center>:white_check_mark:</center> | <center>:white_check_mark:</center> | <center>:white_check_mark:</center> | <center>:white_check_mark:</center> | <center>:white_check_mark:</center> | <center>:white_check_mark:</center> | <center>:white_check_mark:</center> | 
