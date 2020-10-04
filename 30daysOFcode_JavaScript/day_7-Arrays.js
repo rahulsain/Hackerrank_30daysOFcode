@@ -1,6 +1,10 @@
-function main() {
-  var n = parseInt(readLine());
-  arr = readLine().split(' ');
-  arr = arr.map(Number);
-  console.log(arr.reverse().join(' '))
+function main(inputArr) {
+
+    if (!inputArr || !Array.isArray(inputArr))
+        throw new TypeError('Invalid Type - Array expected');
+
+    const outputString = inputArr.reverse().join(' ');
+    console.log(outputString);
 }
+
+module.exports = main;

@@ -5,7 +5,7 @@
       ``cd 30daysOFcode_JavaScript``
 
     2. For a particular code file, run the test file by using the following command. <br/>
-     ``test t filename.test.js``
+     ``npm t filename.test.js``
      
 - While contributing, Please add a test file in the tests folder corresponding to the original program file following the naming convention.
 
