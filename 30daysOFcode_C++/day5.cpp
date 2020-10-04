@@ -1,18 +1,10 @@
-#include <bits/stdc++.h>
-
+#include<iostream>
 using namespace std;
-
-
-
-int main()
-{
-    int n,result;
-    cin >> n;
-    //this is a simple code to print the table of n
-    cin.ignore(numeric_limits<streamsize>::max(), '\n');
-    for(int i=1;i<11;i++)
-   {
-      result=n*i;
-     printf("%d x %d = %d\n",n,i,result);
-   }  return 0;
+int main(){
+	int n, i;
+	cin >> n;
+	for(i=1;i<=10;i++){
+		cout << n << " x "<< i << " = " << n*i << endl;
+	}
+	return 0;
 }

@@ -1,18 +1,14 @@
-# Enter your code here. Read input from STDIN. Print output to STDOUT
-n = int(input())
-phoneBook = {}
-for i in range(n):
-    name, phoneNo = input().strip().split(' ')
-    phoneBook[name] = phoneBook.get(name, phoneNo)
+phonebook = {}
+num = int(input())
+for i in range(0, num):
+    entry = str(input()).split(" ")
+    name = entry[0]
+    number = int(entry[1])
+    phonebook[name] = number
 
-phoneBookKeys = phoneBook.keys()
-
-while 1:
-    try:
-        name = input().strip()
-        if name in phoneBookKeys:
-            print(name, phoneBook[name], sep='=')
-        else:
-            print('Not found')
-    except:
-        break
+for i in range(0, num):
+    name = input()
+    if name in phonebook:
+        print(name + "=" + str(phonebook[name]))
+    else:
+        print("Not found")
