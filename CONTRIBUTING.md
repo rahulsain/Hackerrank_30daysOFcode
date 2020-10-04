@@ -22,7 +22,23 @@ There are some guidelines which everyone should follow while contributing to thi
 > NOTE - 
 > Put a :white_check_mark: in the language column of the program you have implemented before creating a PR.**
 
+## Important points to be noted before making a PR
+
+1. Mark tick :heavy_check_mark: or cross :x: when you make a PR.
+
+2. Please maintain integrity of this repo, refrain from making invalid PR.
+
+3. Resolve your conflicts before making a ready to review PR.
+
+4. Join [discord](https://discord.gg/XS9NvNt) server for discussion.
+
+5. One line typo PRs are not accepted.
+
+6. Don't change file/folder name until necessary.
+
 **Watch this Video if you are new to GitHub - [YouTube Link](https://youtu.be/HbSjyU2vf6Y)**
+
+---
 
 ## 1. Fork the Repository
 
