@@ -19,9 +19,6 @@ There are some guidelines which everyone should follow while contributing to thi
 
 7. That's it! Your pull request will be merged once everything seems okay.
 
-> NOTE - 
-> Put a :white_check_mark: in the language column of the program you have implemented before creating a PR.**
-
 ## Important points to be noted before making a PR
 
 1. Mark tick :heavy_check_mark: or cross :x: when you make a PR.
