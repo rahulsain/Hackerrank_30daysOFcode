@@ -1,30 +1,42 @@
-#include <bits/stdc++.h>
-
+#include <cmath>
+#include <cstdio>
+#include <vector>
+#include <iostream>
+#include <algorithm>
 using namespace std;
 
-int main() {
-    int n, numSwap =0;
-    cin >> n;
-    vector<int> a(n);
-    for(int a_i = 0; a_i < n; a_i++){
-    	cin >> a[a_i];
-    }
-    // Write Your Code Here
-    for(int i=0; i<n; i++)
+int main() 
+{
+       
+    int i, j, n, temp, count=0, Swaps;
+    cin>>n;
+    int array[n];
+    
+    for (i = 0; i <n; i++) 
     {
-        for(int j=0; j<n-1; j++)
+        cin>>array[i];
+    } 
+    for (i = n-1; i >0; i--) 
+    {
+        Swaps = 0;
+    for (j = 0; j <i; j++) 
+    {           
+        if(array[j]>array[j+1])
         {
-            if(a[j] > a[j+1])
-            {
-                int temp = a[j];
-                a[j] = a[j+1];
-                a[j+1] = temp;
-                numSwap++;
-            }
+            temp=array[j];
+            array[j]=array[j+1];
+            array[j+1]=temp;
+            Swaps++;
+            count++;
         }
     }
-    cout<<"Array is sorted in "<<numSwap<<" swaps."<<endl;
-    cout<<"First Element: "<<a[0]<<endl;
-    cout<<"Last Element: "<< a[n-1]<<endl;
-   
+    if (Swaps == 0) 
+    {
+        break;
+    }
+    }   
+    cout<<"Array is sorted in "<<count<<" swaps.\n";
+    cout<<"First Element: "<<array[0]<<endl;
+    cout<<"Last Element: "<<array[n-1]<<endl;
+    return 0;
 }
