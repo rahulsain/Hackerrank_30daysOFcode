@@ -29,7 +29,10 @@
   </p>
 </p>
 
-> **_NOTE:_** Before creating a Pull Request, make sure you add :white_check_mark: to [Completed](#completed) or if it can not be execute in that particular language then add :x: to [Completed](#completed) in that particular problem.
+> **_NOTE:_** Before creating a Pull Request, make sure you add :white_check_mark: to [Completed](#completed) or if it can not be execute in that particular language then add :x: to [Completed](#completed) in that particular problem. 
+Failing to do so will mark your PR as invalid and won't be counted in hactoberfest inspite of any good contribution. Due to increase of PR and the repo being highlighted by Hactoberfest itslef on their website, we are going to take only those contributions which have updated the readme as per your PR changes. 
+
+
 
 ## Introduction
 
