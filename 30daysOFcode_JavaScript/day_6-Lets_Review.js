@@ -1,20 +1,27 @@
 function processData(input) {
-  //Enter your code here
-  input = input.split('\n');
+    //Enter your code here
+    if (typeof input !== 'string')
+        throw new TypeError('Invalid Type - String expected');
+    if (input.trim().length === 0)
+        throw new TypeError('input cannot be empty');
 
-  for (i = 1; i < input.length; i++) {
-    var splitWord = input[i].split('');
+    input = input.split('\n');
 
-    var even = '';
-    var odd = '';
+    for (i = 0; i < input.length; i++) {
+        var splitWord = input[i].split('');
 
-    for (x = 0; x < splitWord.length; x++) {
-      if (x % 2 === 0) {
-        even = even + splitWord[x];
-      } else {
-        odd = odd + splitWord[x];
-      }
+        var even = '';
+        var odd = '';
+
+        for (x = 0; x < splitWord.length; x++) {
+            if (x % 2 === 0) {
+                even = even + splitWord[x];
+            } else {
+                odd = odd + splitWord[x];
+            }
+        }
+        console.log(even + ' ' + odd);
     }
-    console.log(even + ' ' + odd);
-  }
 }
+
+module.exports = processData;
