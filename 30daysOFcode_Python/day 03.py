@@ -1,3 +1,4 @@
+'''
 #!/bin/python
 # compatible with python3
 import sys
@@ -19,3 +20,6 @@ else:
     ans = "Not Weird"
 
 print(ans)
+'''
+
+(lambda n : print( "Weird" if  n%2 else "Not Weird" if 2<=n<=5 else "Weird" if 6<=n<=20 else "Not Weird"     ) ) ( int(input().strip()))
