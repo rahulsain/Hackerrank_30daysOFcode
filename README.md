@@ -14,14 +14,14 @@
   <p align="center">
     Repository for Hackerrank 30 Days of Code
     <br />
-    <a href="https://github.com/yash982000/Hackerrank_30daysOFcode"><strong>View the Repo</strong></a>
+    <a href="https://github.com/rahulsain3000/Hackerrank_30daysOFcode"><strong>View the Repo</strong></a>
     <br />
     <br />
-    <a href="https://github.com/yash982000/Hackerrank_30daysOFcode/blob/master/CONTRIBUTING.md">How to Contribute</a>
+    <a href="https://github.com/rahulsain3000/Hackerrank_30daysOFcode/blob/master/CONTRIBUTING.md">How to Contribute</a>
     ·
-    <a href="https://github.com/yash982000/Hackerrank_30daysOFcode/issues">Contribute</a>
+    <a href="https://github.com/rahulsain3000/Hackerrank_30daysOFcode/issues">Contribute</a>
     ·
-    <a href="https://github.com/yash982000/Hackerrank_30daysOFcode/issues">Request Code</a>
+    <a href="https://github.com/rahulsain3000/Hackerrank_30daysOFcode/issues">Request Code</a>
     <br/>
     <a href="https://www.hackerrank.com/domains/tutorials/30-days-of-code">Try Yourself</a>
 
