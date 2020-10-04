@@ -35,26 +35,37 @@ class Solution{
         }
 
 	void levelOrder(Node * root){
-      //Write your code here
-      queue<Node *>q;
-      q.push(root);
-
-      while(q.size()!=0)
-      {
-          Node *current = q.front();
-          q.pop();
-          cout<<current->data<<" ";
-          if(current->left)
-          {
-              q.push(current->left);
-          }
-          if(current->right)
-          {
-              q.push(current->right);
-          }
-      }
-  	
-  
+        queue<Node*> q;
+        // Start queue with root node
+        q.push(root); 
+        // Run the statements until the queue is not empty
+        while(!q.empty()) {
+            // Create a new node using root node(inserted earlier)
+            Node* node = q.front();
+            // Prints out the data present in that node
+            cout << node->data << " ";
+            // Pop out the node's address
+            q.pop();
+            // If node has a left child push that to queue
+            if(node->left)
+                q.push(node->left);
+            // If node has a right child push that to queue
+            if(node->right)
+                q.push(node->right);
+        }
 	}
 
 };//End of Solution
+
+int main(){
+    Solution myTree;
+    Node* root=NULL;
+    int T,data;
+    cin>>T;
+    while(T-->0){
+        cin>>data;
+        root= myTree.insert(root,data);
+    }
+    myTree.levelOrder(root);
+    return 0;
+}
