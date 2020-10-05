@@ -14,7 +14,7 @@ public class Person {
     }
     public void amIOld() {
         //use of a String object saves us from giving
-        //multiple print commands... 
+        //multiple print commands....
         String s="";
         if(age<13) s="young.";
         else if(age>12 && age<18) s="teenager.";
