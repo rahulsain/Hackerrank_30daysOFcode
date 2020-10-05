@@ -11,7 +11,7 @@ function factorial(n) {
         // throw error
         throw new TypeError("n is expected to be of type: number");
 
-    // Number.isInteger checks if the target value is an integer, return true, otherwise return false.
+    // explanation. Number.isInteger checks if the target value is an integer, return true, otherwise return false.
     // By using !(not) operator then, if the value is not an integer, return true, otherwise return false.
     if (!Number.isInteger(n))
         // throw error
