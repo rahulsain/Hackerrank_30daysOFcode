@@ -1,12 +1,9 @@
-'''
-# Day 0: Hello, World.
 # Read a full line of input from stdin and save it to our dynamically typed variable, input_string.
-input_string = input()
+input_string = gets
 
 # Print a string literal saying "Hello, World." to stdout.
-print('Hello, World.')
+puts 'Hello, World.'
 
 # TODO: Write a line of code here that prints the contents of input_string to stdout.
-print(input_string)
-'''
-print('Hello, World.', input(), sep='\n')
+
+puts input_string

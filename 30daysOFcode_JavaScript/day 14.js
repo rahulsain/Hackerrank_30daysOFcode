@@ -10,6 +10,7 @@ function getAreaES5(r) {
     area = PI * Math.pow(r, 2);
     return area;
 }
+
 function getPerimeterES5(r) {
     let perimeter;
     perimeter = 2 * PI * r;
@@ -22,8 +23,16 @@ const getAreaES6 = (r) => PI * Math.pow(r, 2);
 const getPerimeterES6 = (r) => 2 * PI * r;
 
 
-console.log(getAreaES5(2.6)); // Output should be 21.237166338267002
-console.log(getPerimeterES5(2.6)); //Output should be 16.336281798666924
+// console.log(getAreaES5(2.6)); // Output should be 21.237166338267002
+// console.log(getPerimeterES5(2.6)); //Output should be 16.336281798666924
+//
+// console.log(getAreaES6(2.6)); // Output should be 21.237166338267002
+// console.log(getPerimeterES6(2.6)); //Output should be 16.336281798666924
 
-console.log(getAreaES6(2.6)); // Output should be 21.237166338267002
-console.log(getPerimeterES6(2.6)); //Output should be 16.336281798666924
+
+module.exports = {
+    getAreaES5,
+    getAreaES6,
+    getPerimeterES5,
+    getPerimeterES6
+}
