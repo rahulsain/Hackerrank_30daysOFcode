@@ -24,6 +24,8 @@
     <br/>
     <a href="https://www.hackerrank.com/domains/tutorials/30-days-of-code">Try Yourself</a>
     ·
+    <a href="https://github.com/rahulsain3000/Hackerrank_30daysOFcode/blob/master/CODE_OF_CONDUCT.md">Code of Conduct</a>
+    ·
     <a href="https://discord.gg/XS9NvNt">Join our Discord Server</a>
   </p>
 </p>
