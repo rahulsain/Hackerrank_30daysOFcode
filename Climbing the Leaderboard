@@ -1,0 +1,9 @@
+n=int(input())
+score=sorted(list(set(map(int,input().split()))),reverse=True)
+m=int(input())
+alice=list(map(int,input().split()))
+l=len(score)
+for i in alice:
+    while l>0 and (i>=score[l-1]):
+        l-=1
+    print(l+1)
