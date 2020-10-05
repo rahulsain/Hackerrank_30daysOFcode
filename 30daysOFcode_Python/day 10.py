@@ -6,21 +6,13 @@ import random
 import re
 import sys
 
+s = "{0:b}".format(int(input()))
+result, run = 0, 0
 
-# a pythonic solution
-
-
-if __name__ == '__main__':
-   
-    n = int(input())#n is the input
-    binary=bin(n)#convert n to its binary representation with suffix as 0b for ex: n=2 then binary=0b0010
-    c=0
-    s=[]
-    max_count=-1
-    for ones in binary[2:]:
-        if ones=='1':
-            c=c+1
-        else:
-            c=0
-        max_count=max(max_count,c)
-    print(t)
+for c in s:
+    if c == "1":
+        run += 1
+        result = max(result, run)
+    else:
+        run = 0
+print(result)
