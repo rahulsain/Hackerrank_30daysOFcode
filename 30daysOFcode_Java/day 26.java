@@ -8,13 +8,18 @@ public class Solution {
         /* Enter your code here. Read input from STDIN. Print output to STDOUT. Your class should be named Solution. */
 
         Scanner sc = new Scanner(System.in);
-
+        System.out.println("Please enter Actual day");
         int actualDay = sc.nextInt();
+        System.out.println("Please enter Actual Month");
         int actualMonth = sc.nextInt();
+        System.out.println("Please enter Actual Year");
         int actualYear = sc.nextInt();
 
+        System.out.println("Please enter Expected Day");
         int expectedDay = sc.nextInt();
+        System.out.println("Please enter Expected Month");
         int expectedMonth = sc.nextInt();
+        System.out.println("Please enter Expected Year");
         int expectedYear = sc.nextInt();
 
 
@@ -46,4 +51,3 @@ public class Solution {
         return fine;
     }
 }
-
