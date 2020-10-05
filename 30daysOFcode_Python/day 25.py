@@ -1,6 +1,7 @@
 #!/bin/python3
 
 def isPrime(n):
+  
     if n < 2:
         return False
     i = 2

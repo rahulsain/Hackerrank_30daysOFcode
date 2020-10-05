@@ -6,6 +6,7 @@ import random
 import re
 import sys
 
+
 def solve(n, k):
     if not k % 2 and k|k-1 > n:
         return k-2
