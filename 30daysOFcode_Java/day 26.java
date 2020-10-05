@@ -27,6 +27,20 @@ public class Solution {
 
         System.out.println(fine);
     }
+    /**
+     * This is a simple system that defines how much fine 
+     * one has to pay if
+     * he is delayed for years ,months ,days.
+     * @param actualDay
+     * @param actualMonth
+     * @param actualYear
+     * @param expectedDay
+     * @param expectedMonth
+     * @param expectedYear
+     * @return 10000 {actualYear > expectedYear } 
+     * @return (actualMonth - expectedMonth) * 500 { given actualYear = expectedYear } 
+     * @return (actualDay - expectedDay) * 15 {given actualYear = expectedYear &&actualMonth = expectedMonth}
+     */
 
     static int computeFine(int actualDay, int actualMonth, int actualYear, int expectedDay, int expectedMonth, int expectedYear) {
 
