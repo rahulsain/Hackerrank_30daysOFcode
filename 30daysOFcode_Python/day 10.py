@@ -16,3 +16,5 @@ for c in s:
     else:
         run = 0
 print(result)
+
+#print(max( [len(i) for i in bin(int(input()))[2:].split('0')] ))
