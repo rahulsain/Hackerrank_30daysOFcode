@@ -15,3 +15,5 @@ if __name__ == '__main__':
         arr[i], arr[-1 * (i + 1)] = arr[-1 * (i + 1)], arr[i]
     
     print(*arr)
+
+#(lambda _, arr : print(*arr[::-1], sep=' ') ) ( int(input()),   list(map(int, input().strip().split()))  )
