@@ -1,34 +1,31 @@
-import java.io.*;
 import java.util.*;
-
 public class Solution {
-
+    //bubble sort is mentioned in question..
+    //else the best sorting algorithm would be quick sort...
     public static void main(String[] args) {
-        /* Enter your code here. Read input from STDIN. Print output to STDOUT. Your class should be named Solution. */
-        Scanner sc = new Scanner(System.in);
-        final int N = sc.nextInt();
-        int[] nums = new int[N];
-        for (int i = 0; i< N; i++)
-            nums[i] = sc.nextInt();
-        int swapNum = 0;
-        for (int i = 0; i < N; i++) {
-            int numberOfSwaps = 0;
-            for (int j = 0; j < N - 1; j++) {
-                if (nums[j] > nums[j + 1]) {
-                    int temp = nums[j];
-                    nums[j] = nums[j + 1];
-                    nums[j + 1] = temp;
+        Scanner sc=new Scanner(System.in);
+        int n = sc.nextInt();
+        int[] a=new int[n];
+        for(int i=0;i<n;i++)
+            a[i]=sc.nextInt();
+        int numberOfSwaps=0;
+        for (int i=0;i<n;i++) 
+        {
+            for (int j=0;j<n-1;j++)
+            {
+                if (a[j]>a[j+1])
+                {
+                    //below three lines are used for swapping...
+                    int temp=a[j];
+                    a[j]=a[j+1];
+                    a[j+1]=temp;
                     numberOfSwaps++;
                 }
             }
-            swapNum += numberOfSwaps;
-            if (numberOfSwaps == 0) break;
+            if (numberOfSwaps==0) break;
         }
-        System.out.println("Array is sorted in " + swapNum + " swaps.");
-        System.out.println("First Element: " + nums[0]);
-        System.out.println("Last Element: " + nums[nums.length - 1]);
-    
-        sc.close();
+        System.out.println("Array is sorted in "+numberOfSwaps+" swaps.");
+        System.out.println("First Element: "+a[0]);
+        System.out.println("Last Element: "+a[n-1]);
     }
 }
-
