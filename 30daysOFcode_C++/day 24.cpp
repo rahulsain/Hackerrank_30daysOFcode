@@ -18,27 +18,28 @@ class Node
 class Solution{
     public:
 
-          Node* removeDuplicates(Node *head)
-          {
-            //Write your code here
-            if(head == NULL)
-            {
-                return head;
-            }
-
-            Node *node=head;
-            while(node->next!=NULL)
-            {
-                if(node->data == node->next->data)
-                {
-                    node->next= node->next->next;
-                }
-                else {
-                    node = node->next;
-                }
-            }
-            return head;
-          }
+        Node* removeDuplicates(Node *head) {
+        // As per the question, the head pointer may be null
+        // So we check and return head if it's null
+        if(!head) return head;
+        // Create a new node pointer which is pointing to the
+        // same address as head is pointing
+        Node* curr = head;
+        // Condition check inside while will return false only
+        // for the last node
+        while(curr->next != NULL) {
+            // Checking whether the data of the present node
+            // equals next node data in order to remove duplicates
+            // If there are duplicates store the address of next 
+            // to next node in the current node skipping the next node
+            // because it contains the duplicate value
+            if(curr->data == curr->next->data)
+                curr->next = curr->next->next;
+            // Else just move the current pointer to next node
+            else curr = curr->next;
+        }
+        return head;
+        }
 
           Node* insert(Node *head,int data)
           {
