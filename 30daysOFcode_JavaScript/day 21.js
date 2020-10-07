@@ -10,7 +10,7 @@ function GenericClass(T, Base) {
   };
 }
 
-class DerivedFromGeneric extends GenericClass(String, BaseClass) {
+class DerivedFromGeneric extends GenericClass(Array, BaseClass) {
   greet = function () {
     this.hello();
     console.log("greetings ", this.field);
@@ -18,3 +18,4 @@ class DerivedFromGeneric extends GenericClass(String, BaseClass) {
 }
 
 let i = new DerivedFromGeneric();
+i.greet();
