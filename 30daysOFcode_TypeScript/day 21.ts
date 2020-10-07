@@ -14,3 +14,4 @@ class Printer<T> {
 
 let arr1 = new Printer<T>();
 arr1.printArray([{ key: 1 }, { key: "a" }]);
+
