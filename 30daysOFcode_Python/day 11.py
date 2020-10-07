@@ -1,3 +1,4 @@
+
 import math
 import os
 import random
@@ -13,9 +14,11 @@ if __name__ == '__main__':
     for i in range(6):
         for j in range(6):
             if ((i + 2 < 6) and (j + 2 < 6)):
-                temp = arr[i][j] + arr[i + 2][j] + arr[i][j + 1] + arr[i + 1][j + 1] + arr[i + 2][j + 1] + arr[i][
-                    j + 2] + arr[i + 2][j + 2]
+                temp = arr[i][j] + arr[i + 2][j] + arr[i][j + 1] + arr[i + 1][j + 1] + arr[i + 2][j + 1] + arr[i][j + 2] + arr[i + 2][j + 2]
                 if (temp > max):
                     max = temp
 
     print(max)
+
+
+#(lambda arr:  print(max( [     arr[i][j] + arr[i + 2][j] + arr[i][j + 1] + arr[i + 1][j + 1] + arr[i + 2][j + 1] + arr[i][j + 2] + arr[i + 2][j + 2]      for i in range(6) for j in range(6)  if ((i + 2 < 6) and (j + 2 < 6))          ] ))   ) ( [  list(map(int, input().rstrip().split()))  for _ in range(6)  ]  )
