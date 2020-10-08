@@ -16,7 +16,7 @@ def bubbleSort(a):
     allSwapCount = 0
     for i in range(0, n):
         swapCount = 0
-        for j in range(0, n - 1):
+        for j in range(0, n -i- 1):
             if a[j] > a[j + 1]:
                 swap(a, j, j + 1)
                 swapCount += 1
