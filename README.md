@@ -136,3 +136,8 @@ Looking forward for more contribution in this [community](https://discord.gg/XS9
 [stars-url]: https://github.com/rahulsain3000/Hackerrank_30daysOFcode/stargazers
 [issues-shield]: https://img.shields.io/github/issues/rahulsain3000/Hackerrank_30daysOFcode?color=orange&style=flat-square
 [issues-url]: https://github.com/rahulsain3000/Hackerrank_30daysOFcode/issues
+
+
+[![Stargazers repo roster for @rahulsain3000/Hackerrank_30daysOFcode](https://reporoster.com/stars/rahulsain3000/Hackerrank_30daysOFcode)](https://github.com/rahulsain3000/Hackerrank_30daysOFcode/stargazers)
+
+[![Forkers repo roster for @rahulsain3000/Hackerrank_30daysOFcode](https://reporoster.com/forks/rahulsain3000/Hackerrank_30daysOFcode)](https://github.com/rahulsain3000/Hackerrank_30daysOFcode/network/members)
