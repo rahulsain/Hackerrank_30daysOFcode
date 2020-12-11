@@ -13,18 +13,18 @@
   <p align="center">
     Repository for Hackerrank 30 Days of Code
     <br />
-    <a href="https://github.com/rahulsain3000/Hackerrank_30daysOFcode"><strong>View the Repo</strong></a>
+    <a href="https://github.com/rahulsain/Hackerrank_30daysOFcode"><strong>View the Repo</strong></a>
     <br />
     <br />
-    <a href="https://github.com/rahulsain3000/Hackerrank_30daysOFcode/blob/master/CONTRIBUTING.md">How to Contribute</a>
+    <a href="https://github.com/rahulsain/Hackerrank_30daysOFcode/blob/master/CONTRIBUTING.md">How to Contribute</a>
     ·
-    <a href="https://github.com/rahulsain3000/Hackerrank_30daysOFcode/issues">Contribute</a>
+    <a href="https://github.com/rahulsain/Hackerrank_30daysOFcode/issues">Contribute</a>
     ·
-    <a href="https://github.com/rahulsain3000/Hackerrank_30daysOFcode/issues">Request Code</a>
+    <a href="https://github.com/rahulsain/Hackerrank_30daysOFcode/issues">Request Code</a>
     <br/>
     <a href="https://www.hackerrank.com/domains/tutorials/30-days-of-code">Try Yourself</a>
     ·
-    <a href="https://github.com/rahulsain3000/Hackerrank_30daysOFcode/blob/master/CODE_OF_CONDUCT.md">Code of Conduct</a>
+    <a href="https://github.com/rahulsain/Hackerrank_30daysOFcode/blob/master/CODE_OF_CONDUCT.md">Code of Conduct</a>
     ·
     <a href="https://discord.gg/XS9NvNt">Join our Discord Server</a>
   </p>
@@ -53,22 +53,22 @@ But, this can prove to be quite a difficult task at times. So, here are some sol
 
 > **_NOTE:_** First, try to solve it on your own. If facing some difficulty, you can see this.
 
-- [Python](<https://github.com/rahulsain3000/Hackerrank_30daysOFcode/tree/master/30daysOFcode_Python>)
-- [C++](<https://github.com/rahulsain3000/Hackerrank_30daysOFcode/tree/master/30daysOFcode_C%2B%2B>)
-- [Java](<https://github.com/rahulsain3000/Hackerrank_30daysOFcode/tree/master/30daysOFcode_Java>)
-- [Javascript](<https://github.com/rahulsain3000/Hackerrank_30daysOFcode/tree/master/30daysOFcode_JavaScript>)
-- [Go](<https://github.com/rahulsain3000/Hackerrank_30daysOFcode/tree/master/30daysOFcode_Go>)
-- [C](<https://github.com/rahulsain3000/Hackerrank_30daysOFcode/tree/master/30daysOFcode_C>)
-- [C#](<https://github.com/rahulsain3000/Hackerrank_30daysOFcode/tree/master/30daysOFcode_C%23>)
-- [PHP](<https://github.com/rahulsain3000/Hackerrank_30daysOFcode/tree/master/30daysOFcode_Php>)
-- [TypeScript](<https://github.com/rahulsain3000/Hackerrank_30daysOFcode/tree/master/30daysOFcode_TypeScript>)
-- [Swift](<https://github.com/rahulsain3000/Hackerrank_30daysOFcode/tree/master/30daysOFcode_Swift>)
-- [Ruby](<https://github.com/rahulsain3000/Hackerrank_30daysOFcode/tree/master/30daysOFcode_Ruby>)
-- [Rust](<https://github.com/rahulsain3000/Hackerrank_30daysOFcode/tree/master/30daysOFcode_Rust>)
-- [Julia](<https://github.com/rahulsain3000/Hackerrank_30daysOFcode/tree/master/30daysOFcode_Julia>)
-- [Kotlin](<https://github.com/rahulsain3000/Hackerrank_30daysOFcode/tree/master/30daysOFcode_Kotlin>)
-- [Scala](<https://github.com/rahulsain3000/Hackerrank_30daysOFcode/tree/master/30daysOFcode_Scala>)
-- [Dart](<https://github.com/rahulsain3000/Hackerrank_30daysOFcode/tree/master/30daysOFcode_Dart>)
+- [Python](<https://github.com/rahulsain/Hackerrank_30daysOFcode/tree/master/30daysOFcode_Python>)
+- [C++](<https://github.com/rahulsain/Hackerrank_30daysOFcode/tree/master/30daysOFcode_C%2B%2B>)
+- [Java](<https://github.com/rahulsain/Hackerrank_30daysOFcode/tree/master/30daysOFcode_Java>)
+- [Javascript](<https://github.com/rahulsain/Hackerrank_30daysOFcode/tree/master/30daysOFcode_JavaScript>)
+- [Go](<https://github.com/rahulsain/Hackerrank_30daysOFcode/tree/master/30daysOFcode_Go>)
+- [C](<https://github.com/rahulsain/Hackerrank_30daysOFcode/tree/master/30daysOFcode_C>)
+- [C#](<https://github.com/rahulsain/Hackerrank_30daysOFcode/tree/master/30daysOFcode_C%23>)
+- [PHP](<https://github.com/rahulsain/Hackerrank_30daysOFcode/tree/master/30daysOFcode_Php>)
+- [TypeScript](<https://github.com/rahulsain/Hackerrank_30daysOFcode/tree/master/30daysOFcode_TypeScript>)
+- [Swift](<https://github.com/rahulsain/Hackerrank_30daysOFcode/tree/master/30daysOFcode_Swift>)
+- [Ruby](<https://github.com/rahulsain/Hackerrank_30daysOFcode/tree/master/30daysOFcode_Ruby>)
+- [Rust](<https://github.com/rahulsain/Hackerrank_30daysOFcode/tree/master/30daysOFcode_Rust>)
+- [Julia](<https://github.com/rahulsain/Hackerrank_30daysOFcode/tree/master/30daysOFcode_Julia>)
+- [Kotlin](<https://github.com/rahulsain/Hackerrank_30daysOFcode/tree/master/30daysOFcode_Kotlin>)
+- [Scala](<https://github.com/rahulsain/Hackerrank_30daysOFcode/tree/master/30daysOFcode_Scala>)
+- [Dart](<https://github.com/rahulsain/Hackerrank_30daysOFcode/tree/master/30daysOFcode_Dart>)
 
 ### Completed
 
@@ -128,16 +128,16 @@ To all the contributors/collaborators out there spending there time to make valu
 
 Looking forward for more contribution in this [community](https://discord.gg/XS9NvNt). Happy coding!
 
-[contributors-shield]: https://img.shields.io/github/contributors/rahulsain3000/Hackerrank_30daysOFcode?style=flat-square
-[contributors-url]: https://github.com/rahulsain3000/Hackerrank_30daysOFcode/graphs/contributors
-[forks-shield]: https://img.shields.io/github/forks/rahulsain3000/Hackerrank_30daysOFcode?style=flat-square
-[forks-url]: https://github.com/rahulsain3000/Hackerrank_30daysOFcode/network/members
-[stars-shield]: https://img.shields.io/github/stars/rahulsain3000/Hackerrank_30daysOFcode?color=red&style=flat-square
-[stars-url]: https://github.com/rahulsain3000/Hackerrank_30daysOFcode/stargazers
-[issues-shield]: https://img.shields.io/github/issues/rahulsain3000/Hackerrank_30daysOFcode?color=orange&style=flat-square
-[issues-url]: https://github.com/rahulsain3000/Hackerrank_30daysOFcode/issues
+[contributors-shield]: https://img.shields.io/github/contributors/rahulsain/Hackerrank_30daysOFcode?style=flat-square
+[contributors-url]: https://github.com/rahulsain/Hackerrank_30daysOFcode/graphs/contributors
+[forks-shield]: https://img.shields.io/github/forks/rahulsain/Hackerrank_30daysOFcode?style=flat-square
+[forks-url]: https://github.com/rahulsain/Hackerrank_30daysOFcode/network/members
+[stars-shield]: https://img.shields.io/github/stars/rahulsain/Hackerrank_30daysOFcode?color=red&style=flat-square
+[stars-url]: https://github.com/rahulsain/Hackerrank_30daysOFcode/stargazers
+[issues-shield]: https://img.shields.io/github/issues/rahulsain/Hackerrank_30daysOFcode?color=orange&style=flat-square
+[issues-url]: https://github.com/rahulsain/Hackerrank_30daysOFcode/issues
 
 
-[![Stargazers repo roster for @rahulsain3000/Hackerrank_30daysOFcode](https://reporoster.com/stars/rahulsain3000/Hackerrank_30daysOFcode)](https://github.com/rahulsain3000/Hackerrank_30daysOFcode/stargazers)
+[![Stargazers repo roster for @rahulsain/Hackerrank_30daysOFcode](https://reporoster.com/stars/rahulsain/Hackerrank_30daysOFcode)](https://github.com/rahulsain/Hackerrank_30daysOFcode/stargazers)
 
-[![Forkers repo roster for @rahulsain3000/Hackerrank_30daysOFcode](https://reporoster.com/forks/rahulsain3000/Hackerrank_30daysOFcode)](https://github.com/rahulsain3000/Hackerrank_30daysOFcode/network/members)
+[![Forkers repo roster for @rahulsain/Hackerrank_30daysOFcode](https://reporoster.com/forks/rahulsain/Hackerrank_30daysOFcode)](https://github.com/rahulsain/Hackerrank_30daysOFcode/network/members)
