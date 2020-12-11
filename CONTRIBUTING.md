@@ -1,4 +1,3 @@
-
 # Contribution Guidelines
 
 There are some guidelines which everyone should follow while contributing to this opensource project. While working in large teams, it is necessary to follow these steps to avoid any conflicts in the code and continue a smooth flow of collaboration amongst the developers.
@@ -39,7 +38,7 @@ There are some guidelines which everyone should follow while contributing to thi
 
 ## 1. Fork the Repository
 
-First step is to fork this repository (rahulsain3000/Hackerrank_30daysOFcode) to your GitHub account. You can do this by clicking on the Fork button provided in the top right corner of the repo page.
+First step is to fork this repository (rahulsain/Hackerrank_30daysOFcode) to your GitHub account. You can do this by clicking on the Fork button provided in the top right corner of the repo page.
 
 Also, star and watch the repository to receive all the updates directly to your mail.
 
@@ -48,7 +47,7 @@ Also, star and watch the repository to receive all the updates directly to your 
 ## 2. Clone the forked repo to your system
 
 Clone the repository that you just forked into your account.
-Be careful to clone the forked repo (your-username/Hackerrank_30daysOFcode) and not the main repo (rahulsain3000/Hackerrank_30daysOFcode) as making direct changes to the main repo will result in conflict of code and lack of co-ordination as we proceed further.
+Be careful to clone the forked repo (your-username/Hackerrank_30daysOFcode) and not the main repo (rahulsain/Hackerrank_30daysOFcode) as making direct changes to the main repo will result in conflict of code and lack of co-ordination as we proceed further.
 
 The forked repository will have your username in the top left corner and the clone link will also contain your username (<https://github.com/your-username/Hackerrank_30daysOFcode.git>).
 
@@ -60,7 +59,7 @@ Now, you have the repository on your system and you are ready to make changes. B
 
 To avoid any conflicts, you need to pull all the changes from the main repository.
 
-So, after cloning the forked repository (your-username/skill-board) to your system, use the command `git remote add upstream https://github.com/rahulsain3000/Hackerrank_30daysOFcode.git` to point to the main repository. You only need to do this once.
+So, after cloning the forked repository (your-username/Hackerrank_30daysOFcode) to your system, use the command `git remote add upstream https://github.com/rahulsain/Hackerrank_30daysOFcode.git` to point to the main repository. You only need to do this once.
 
 Now, after making any changes to your project on the system, follow these simple steps to push your work to the repository:
 
@@ -79,7 +78,7 @@ Now, after making any changes to your project on the system, follow these simple
 After pushing the changes to your forked repository (your-username/Hackerrank_30daysOFcode), all you have to do is create a new pull request from your account by simply clicking on the *Pull Request* button.
 
 > NOTE:
-> If you are some commits behind of rahulsain3000:master then you need to first git pull upstream master from the system, push it to your forked repository and then create the Pull Request.
+> If you are some commits behind of rahulsain:master then you need to first git pull upstream master from the system, push it to your forked repository and then create the Pull Request.
 
 Give a detailed and useful explaination of what you did in the comments of pull requests and someone from the maintainers or team leads will review the code and accept the pull request or ask you to change some things before merging it.
 
