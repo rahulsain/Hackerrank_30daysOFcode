@@ -17,7 +17,7 @@
   },
   "homepage": "https://github.com/rahulsain3000/Hackerrank_30daysOFcode#readme",
   "dependencies": {
-    "jest": "^26.4.2"
+    "jest": "^29.7.0"
   },
   "scripts": {
     "test": "jest --verbose"
